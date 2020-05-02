@@ -21,8 +21,18 @@
     "webpack-hot-middleware": "^2.22.2"
   },
   "dependencies": {
+    "azure-storage": "^2.10.3",
     "babel-preset-env": "^1.7.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express-fileupload": "^1.1.7-alpha.3",
+    "filereader": "^0.10.3",
+    "fs": "0.0.1-security",
     "react": "^16.4.1",
-    "react-dom": "^16.4.1"
+    "react-bootstrap": "^1.0.1",
+    "react-dom": "^16.4.1",
+    "request": "^2.88.2"
   }
 }

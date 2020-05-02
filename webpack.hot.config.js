@@ -5,7 +5,7 @@ const webpack = require('webpack');
 module.exports = {
   entry: {
         app: [
-            'webpack-hot-middleware/client?path=http://localhost:3000/_webpack_hmr',
+            // 'webpack-hot-middleware/client?path=http://localhost:3000/_webpack_hmr',
             './components/app'
         ]
   },
